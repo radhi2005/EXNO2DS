@@ -23,8 +23,8 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-DEVELOPED BY : RADHIMEENA M
-REG NO : 212223040159
+## DEVELOPED BY : RADHIMEENA M
+## REG NO : 212223040159
 ```
 import pandas as pd
 import numpy as np
@@ -119,6 +119,8 @@ sns.heatmap(corr,annot=True)
 ```
 sns.pairplot(df)
 ```
+![image](https://github.com/user-attachments/assets/65abb38a-e0c3-40af-9c0a-11f6d401f6cc)
+
 ![image](https://github.com/user-attachments/assets/2a46b4b9-9129-4a27-9e5a-261ea91029ee)
 
 # RESULT
